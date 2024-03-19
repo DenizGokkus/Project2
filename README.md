@@ -1,6 +1,6 @@
 # Project2
 
-This C++ repository features the implementation of a bi_ring class, a doubly linked list designed for flexible and efficient data manipulation. The class supports operations such as insertion, deletion, and advanced manipulations exemplified by the task requirements:
+This C++ repository features the implementation of a ring class, a doubly linked list designed for flexible and efficient data manipulation. The class supports operations such as insertion, deletion, and advanced manipulations exemplified by the task requirements:
 
 -Filtering: The filter function selects elements whose keys satisfy a specific condition, demonstrated by filtering strings longer than 3 characters, resulting in a new list with elements like [quattro:4 cinque:5 sette:7 otto:8].
 
