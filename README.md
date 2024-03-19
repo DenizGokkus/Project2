@@ -1,4 +1,4 @@
-# Project2
+# Description
 
 This C++ repository features the implementation of a ring class, a doubly linked list designed for flexible and efficient data manipulation. The class supports operations such as insertion, deletion, and advanced manipulations exemplified by the task requirements:
 
